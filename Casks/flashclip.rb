@@ -1,6 +1,6 @@
 cask "flashclip" do
   version "1.0.0"
-  sha256 "976e7ad630b9c5ef8e782f45ef778981c4d18d67b8358efaa6a821b1e8af87d0"
+  sha256 "5c346780f4cf08008481f144cb769d1dad4cd2cf45fca414cbed9ed8e406c6e4"
 
   url "https://github.com/srikat/FlashClip/releases/download/v#{version}/FlashClip-v#{version}.zip"
   name "FlashClip"
